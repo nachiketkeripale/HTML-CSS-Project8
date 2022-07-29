@@ -10,7 +10,7 @@
 
 ![Nachiket,FullStackDeveloper](https://img.shields.io/badge/Nachiket%20Keripale-Full--Stack--Developer-brightgreen)
 
-## Project 8 [Live Link](https://nachiketkeripaleproject7.netlify.app/)
+## Project 8 [Live Link](https://nachiketkeripaleproject8.netlify.app/)
 
 -  Used flex and position in this project.
 -  Used background propertys such as background-position and background-size.
